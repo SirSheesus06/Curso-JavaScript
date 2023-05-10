@@ -1,12 +1,12 @@
 class Persona {
-    // Privadas -> #
+    //TODO Privadas -> #
     // Solo se puede acceder desde adentro de la clase
     #nombre
     #edad
     //#obtenEdad
 
-    // Protegidos -> _
-    // Solo se puede acceder desde adentro de la clase y desde clases descendientes
+    //TODO Protegidos -> _
+    //TODO Solo se puede acceder desde adentro de la clase y desde clases descendientes
     _isDevelopoer = true
 
     constructor(nombre, edad,) {
