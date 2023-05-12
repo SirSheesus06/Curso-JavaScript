@@ -2,4 +2,23 @@
 
 const nombre = "juanma"
 
-const persona = 'manuel'
+// TODO Deshabilitar ESLint
+
+/* eslint-disable */
+const persona = 'manuel';
+
+// TODO Habilitar nuevamente
+
+/* eslint-enable */
+const nuevoS = "Esto es un string"
+
+// TODO Desactivar una sola linea
+
+const numberS = '123456568989'; // eslint-disable-line
+
+// TODO Se puede ser especidico en que queremos desactivar
+
+/* eslint-disable-next-line indent */
+
+const stringgg = "mas strings"
+
